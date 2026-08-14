@@ -16,3 +16,4 @@ show up; append `?v=<anything>` to bust the cache immediately if needed.
 | sindri01 | https://cdn.jsdelivr.net/gh/asgard-ai-platform/content-pipeline-static@main/content-pipeline/sindri01.png |
 | sindri02 | https://cdn.jsdelivr.net/gh/asgard-ai-platform/content-pipeline-static@main/content-pipeline/sindri02.png |
 | sindri03 | https://cdn.jsdelivr.net/gh/asgard-ai-platform/content-pipeline-static@main/content-pipeline/sindri03.png |
+| sindri04 | https://cdn.jsdelivr.net/gh/asgard-ai-platform/content-pipeline-static@main/content-pipeline/sindri04.png |
